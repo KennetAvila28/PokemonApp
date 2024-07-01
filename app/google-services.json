@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "19307497191",
+    "project_id": "pokeapp-b1998",
+    "storage_bucket": "pokeapp-b1998.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:19307497191:android:026a9ea583d70f37b3c442",
+        "android_client_info": {
+          "package_name": "com.kennet.pokeapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "19307497191-704c59qjh44ocn64nt8ujoen8n0kr5ua.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kennet.pokeapp",
+            "certificate_hash": "41e05541f94bc6277715da1e3257332d26a71195"
+          }
+        },
+        {
+          "client_id": "19307497191-qpmb2c2bjl1lqiboi2etigsm1et2muee.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqBC1SEGbmMUNG9_feWqbU5CDzP5lcrKc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "19307497191-qpmb2c2bjl1lqiboi2etigsm1et2muee.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
